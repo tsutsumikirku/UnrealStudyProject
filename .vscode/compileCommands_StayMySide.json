@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UnrealEngine\\UnrealStudyProject\\Source\\StayMySide\\Private\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine\\UnrealStudyProject\\.vscode\\compileCommands_StayMySide\\StayMySide.1.rsp"
+		],
+		"directory": "C:\\UE\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\UnrealStudyProject\\Source\\StayMySide\\Public\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine\\UnrealStudyProject\\.vscode\\compileCommands_StayMySide\\StayMySide.1.rsp"
+		],
+		"directory": "C:\\UE\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\UnrealStudyProject\\Source\\StayMySide\\StayMySide.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine\\UnrealStudyProject\\.vscode\\compileCommands_StayMySide\\StayMySide.1.rsp"
+		],
+		"directory": "C:\\UE\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\UnrealStudyProject\\Source\\StayMySide\\StayMySide.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine\\UnrealStudyProject\\.vscode\\compileCommands_StayMySide\\StayMySide.1.rsp"
+		],
+		"directory": "C:\\UE\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\UnrealStudyProject\\Source\\StayMySide\\StayMySide.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngine\\UnrealStudyProject\\.vscode\\compileCommands_StayMySide\\StayMySide.1.rsp"
+		],
+		"directory": "C:\\UE\\UE_5.4\\Engine\\Source"
+	}
+]
